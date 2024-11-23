@@ -1,5 +1,4 @@
 name: Team2
-
 on: [push, workflow_dispatch]
 
 jobs:
